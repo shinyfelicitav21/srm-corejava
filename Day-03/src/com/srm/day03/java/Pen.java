@@ -6,15 +6,19 @@ public abstract class Pen {
 	    abstract void refill();
 	}
 
-	class FountainPen extends Pen{
+	 class FountainPen extends Pen{
+		 
 	    void write(){
-	        System.out.println("Write");
+	        System.out.println("This is method Write.");
 	    }
+	    
 	    void refill(){
-	        System.out.println("Refill");
+	        System.out.println("This is method Refill.");
 	    }
+	    
 	    void changeNib(){
-	        System.out.println("Changing the nib");
+	        System.out.println("Change the nib!!");
 	    }
-	}
+	
+	 }
 

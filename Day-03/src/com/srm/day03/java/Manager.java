@@ -8,7 +8,6 @@ public class Manager extends Person {
 		
 		System.out.println("------------------------------------");
 		System.out.println("Specialization:"+ spec);
-		System.out.println("Department:"+dept);
-			
+		
 	}
 }

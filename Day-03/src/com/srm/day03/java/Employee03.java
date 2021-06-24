@@ -7,7 +7,6 @@ public class Employee03 extends Person {
 	public void display2() {
 	
 		System.out.println("Specialization:"+ spec);
-		System.out.println("Department:"+dept);
-		
+	
 	}	
 }

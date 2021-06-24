@@ -1,5 +1,7 @@
 package com.srm.day03.java;
 
-public class SmartTVRemote  {
+public interface SmartTVRemote extends TVRemote{
+	
+ public void features();
 
 }
