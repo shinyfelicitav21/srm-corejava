@@ -1,0 +1,2 @@
+the java.io package contains every class need to perform (i/o) operations in java. 
+all these streams represent an input source and an output destination.
