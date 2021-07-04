@@ -37,6 +37,7 @@ public class PropertiesExample {
 		    System.out.println(p.getProperty("pwd"));  
 		    System.out.println("------------------------------------");
 	}
+	
 	private void setNewMethod() {
 		
 		Properties p=System.getProperties();  
