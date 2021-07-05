@@ -28,6 +28,7 @@ public class TreeSetDuplicate {
         }
         System.out.println("");
         
+        //After removing duplicate entries
         System.out.println("TreeSet Elements:  \n" + ts);
         System.out.println("");
 
