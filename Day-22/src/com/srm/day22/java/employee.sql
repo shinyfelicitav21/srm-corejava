@@ -1,0 +1,1 @@
+create table  employee (EID int,Ename varchar(15) ,EDesgn varchar(15));
